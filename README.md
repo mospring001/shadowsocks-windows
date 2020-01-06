@@ -2,7 +2,7 @@
 
 下载
 
-https://github.com/mospring001/shadowsocks-windows/blob/master/shadowsocks-windows.zip
+<a href="https://github.com/mospring001/shadowsocks-windows/blob/master/shadowsocks-windows.zip">Download Here</a>
 
 修改config.json，改成自己的端口和密码
 
